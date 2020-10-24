@@ -1,0 +1,15 @@
+p5.play lib
+
+playing characters-You
+npcs-villians, helpers
+
+Main Storyline-one guy has to escape, he has to shoot all the villans, helpes give him powerups for coins, coins are attained by defeating villans.
+npc Villans in depth-Normal Villan: takes 10 shot to defeat, Hunter Villan: takes 20 shots to defeat, Mega Villan: Spawns in two types(normal, fire), takes 50 shits to defeat.
+Villan coin drop-Normal drops 2 coins, Hunter drops 4 coins, Mega Villan(normal) drops 10 coins, Mega Villan(fire) drops 15 coins.
+npc Helpers-Normal helper: spawn rate=50%, Loot%=90% silver, 10% gold; Vidicator: spawn rate=45%, Loot%=50% silver, 50% gold; Divine Helper: spawn rate=5%, Loot%=100% gold; using coins you can buy healing from helpers.
+Helpers drops-50% armour, 50% weapons.
+Armour- silver gives you 10 extra health, gold gives you 30 extra health; important note: you can stack armour, so if you have 2 silver armours you can use both at once. 
+Weapons- silver sword does 15 damage, gold sword does 30 damage; you can stack weapon damage too!
+Healing- silver carrot: cost= 10 coins each, heals 5 hearts; silver apple: cost= 20 coins each= heals 15 hearts; golden carrot: cost= 25 coins each, heals 20 hearts; golden apple: cost=100 coins each, heals you completly no matter what your heath is! 
+playing characters-20 health, starting weapon does 10 damage.
+
